@@ -1,0 +1,18 @@
+The game HIDE THE SEVEN is a really simple poker game that can be played by a mininum of four people.
+1.	Each player has 13 cards. The first person to play is supposed to put a card on the table from his or her deck. This card must be 
+seven, with any suit.
+2.	The second player needs to put a card which has the same suit as the card of first person, and that card must be one point smaller 
+or bigger than seven. And the third one has to put a card which has the same suit and is one point bigger or smaller than the existing two
+cards.
+3.	If any people doesn't have cards that are available, he or she can put another seven on the table instead.
+4.	If any people(including the first turn player) doesn't have any seven or any card that is one point smaller or bigger than the 
+existing cards on the table, he or she has chances to skip this turn. But a victim is required for your sacrifice: choose one card from
+the deck and abandon it.
+5.	The first person to have a deck of zero card is not the winner. After all thirteen turn end, each player must count their 
+sacrifices, adding all cards together. ace for one, jack for eleven, queen for twelve and king for thirteen.
+6.	Each person can choose one of their card discarded and divide its points by half while counting for points. The person who has the 
+fewest points shall be the winner.
+7.	The player who has all seven or all king in his or her deck is the winner as well because of special rules.
+8.	It is fair that you discard one card to skip the turn even if you still have cards that are available for this turn. The name of 
+the game is HIDE THE SEVEN, so hide your seven or six or eight which are essential for other players as possible as you can. The longer 
+you hide the seven, the greater chance you will win.

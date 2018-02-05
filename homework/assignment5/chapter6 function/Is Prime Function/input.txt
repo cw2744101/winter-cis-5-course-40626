@@ -1,0 +1,1 @@
+100 is a prime number.
